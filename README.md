@@ -31,7 +31,7 @@
 ## Contenido del curso
 
 | **Unidad** | **Tema** | **Contenido** |
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 | I | Introducción a la optimización | <li>Formalismo matemático.</li> <li>Funciones convexas.</li> <li>Tipos de problemas.</li> |
 | II | Fundamentos de optimización sin restricciones | <li>Caracterización de un mínimo.</li> <li>Tipo de algoritmos de optimización.</li> |
 | III | Optimización sin restricciones | <li>Método de Búsqueda en Línea.</li> <li>Método de Región de Confianza.</li> <li>Método de Gradiente Conjugado.</li> <li>Método de Quasi-Newton.</li> <li>Método de Gradiente Descendente.</li> |
