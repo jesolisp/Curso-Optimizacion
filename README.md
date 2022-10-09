@@ -46,4 +46,4 @@
  <li> Estimation of Distribution Algorithms: A New Tool for Evolutionary Computation: 2. Pedro Larrañaga, José a Lozano. </li>
 </ol>
 
-##### Última modificación 27 de septiembre de 2022
+##### Última modificación 8 de octubre de 2022
