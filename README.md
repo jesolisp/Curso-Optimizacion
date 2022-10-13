@@ -36,7 +36,7 @@
 | II | Fundamentos de optimización sin restricciones | <li>Caracterización de un mínimo.</li> <li>Tipo de algoritmos de optimización.</li> | <ol><li>[Código(Colab)](codes/.ipynb)</li> <li>[Código(Colab)](codes/.ipynb)</li> </ol> |
 | III | Optimización sin restricciones | <li>Método de Búsqueda en Línea.</li> <li>Método de Región de Confianza.</li> <li>Método de Gradiente Conjugado.</li> <li>Método de Quasi-Newton.</li> <li>Método de Gradiente Descendente.</li> | <ol><li>[Código(Colab)](codes/JESP_06_Busqueda_lineal.ipynb)</li> <li>[Código(Colab)](codes/JESP_07_Region_confianza.ipynb)</li> <li>[Código(Colab)](codes/JESP_08_Gradiente_conjugado.ipynb)</li> <li>[Código(Colab)](codes/JESP_09_Quasi_Newton.ipynb)</li> <li>[Código(Colab)](codes/JESP_10_Gradiente_descendente.ipynb)</li> </ol> |
 | IV | Optimización con restricciones | <li>Programación lineal</li> <li>Programación cuadrática </li> <li>Métodos de penalización y Lagrangiano aumentado </li> | <ol><li>[Código(Colab)](codes/.ipynb)</li> <li>[Código(Colab)](codes/.ipynb)</li> <li>[Código(Colab)](codes/.ipynb)</li> </ol> |
-| V | Algoritmos heurísticos | <li>Basados en trayectorias (SA).</li> <li>Basados en Poblaciones (GA, PSO).</li> <li>Optimización multi-objetivo.</li> | <ol><li>[Código(Colab)](codes/.ipynb)</li><li>[Código(Colab)](codes/.ipynb)</li><li>[Código(Colab)](codes/.ipynb)</li><li>[Código(Colab)](codes/.ipynb)</li> </ol> |
+| V | Algoritmos heurísticos | <li>Basados en trayectorias (SA).</li> <li>Basados en Poblaciones (GA, PSO).</li> <li>Optimización multi-objetivo.</li> | <ol><li>[Código(Colab)](codes/.ipynb)</li><li>[Código(Colab)](codes/.ipynb)</li><li>[Código(Colab)](codes/.ipynb)</li> </ol> |
 
 ## Libros de apoyo
 <ol>
@@ -46,4 +46,4 @@
  <li> Estimation of Distribution Algorithms: A New Tool for Evolutionary Computation: 2. Pedro Larrañaga, José a Lozano. </li>
 </ol>
 
-##### Última modificación 8 de octubre de 2022
+##### Última modificación 13 de octubre de 2022
