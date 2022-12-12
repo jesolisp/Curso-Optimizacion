@@ -39,10 +39,10 @@
 
 ## Libros de apoyo
 <ol>
- <li> Numerical Optimization, 2nd Edition. Jorge Nocedal, Stephen Wright. </li>
- <li> Iterative Methods for Optimization, 1st Edition. C.T. Kelley. </li>
- <li> An Introduction to Metaheuristics for Optimization, 2018 Edition. Bastien Chopard, Marco Tomassini. </li>
- <li> Estimation of Distribution Algorithms: A New Tool for Evolutionary Computation: 2. Pedro Larrañaga, José a Lozano. </li>
+ <li> Nocedal, J., & Wright, S. J. (Eds.). (1999). Numerical optimization. New York, NY: Springer New York. </li>
+ <li> Kelley, C. T. (1999). Iterative methods for optimization. Society for Industrial and Applied Mathematics. </li>
+ <li> Chopard, B., & Tomassini, M. (2018). An introduction to metaheuristics for optimization. Cham, Switzerland: Springer International Publishing. </li>
+ <li> Larrañaga, P., & Lozano, J. A. (Eds.). (2001). Estimation of distribution algorithms: A new tool for evolutionary computation (Vol. 2). Springer Science & Business Media. </li>
 </ol>
 
 ##### Última modificación 11 de diciembre de 2022
